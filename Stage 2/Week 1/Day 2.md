@@ -76,4 +76,116 @@ show tables;
 
 
 
+Set Up Backend
+
+
+
+Git Clone wayshub-backend
+
+
+![42](https://user-images.githubusercontent.com/111972023/216760123-cc8f5176-7db2-46c1-8ddc-0c0219b5b3b6.png)
+
+
+
+
+Untuk Migrasi Database Dari Backend Ke Database Mysql
+
+
+
+![43](https://user-images.githubusercontent.com/111972023/216760181-1bd0956e-5e64-495b-86f5-d8dcd52796aa.png)
+
+
+
+![44](https://user-images.githubusercontent.com/111972023/216760190-907c95c2-c42e-4d0d-8ac2-e44b95c5fd4f.png)
+
+
+Untuk Bisa Migrasi Database Dari Backend Ke Database Mysql Harus Menggunakan sequelize
+
+
+npm install -g sequelize-cli
+
+
+
+![45](https://user-images.githubusercontent.com/111972023/216760270-6802a37d-026f-4f9d-a3db-79103776da82.png)
+
+
+
+
+
+sequelize db:migrate
+
+
+
+
+![46](https://user-images.githubusercontent.com/111972023/216760288-a41560ed-7559-4d4f-902f-a3e073d4fd19.png)
+
+
+
+Melihat Hasil Migrasi Dari Backend Ke Mysql, Menggunakan sequelize-cli
+
+
+
+![47](https://user-images.githubusercontent.com/111972023/216760344-1e1a3cf7-b4ff-4f5e-b738-cc11e82f59a6.png)
+
+
+
+Menjalankan Backend Wayshub Dengan Menggunakan PM2
+
+
+
+![48](https://user-images.githubusercontent.com/111972023/216760393-e2eddf0b-221f-4ff3-a832-a0c54d27f117.png)
+
+
+
+
+![49](https://user-images.githubusercontent.com/111972023/216760401-e1de1304-3dfa-4d26-9a2b-64f016eed35a.png)
+
+
+
+
+Challange : UFW Enable
+
+
+
+
+
+![50](https://user-images.githubusercontent.com/111972023/216760423-d3e76ffd-635e-4e88-b699-d65afd2268ea.png)
+
+
+
+
+
+Supaya Website Tadi Menjadi Lebih Aman Dan Menjadi https, Menggunakan Certbot
+
+
+sudo apt-get update
+
+
+
+![51](https://user-images.githubusercontent.com/111972023/216760478-e2c3c672-1b6b-47aa-bf7f-56fae32f42f6.png)
+
+
+Set Up Certbot
+
+
+
+![52](https://user-images.githubusercontent.com/111972023/216760513-30310436-02d8-46a3-b948-2fe541bc2572.png)
+
+
+
+
+![53](https://user-images.githubusercontent.com/111972023/216760527-19ea8283-f750-41b2-b0ad-9e5156e7de30.png)
+
+
+
+
+
+![54](https://user-images.githubusercontent.com/111972023/216760539-a04ee216-a7f4-412b-9d13-3cff2ae52909.png)
+
+
+
+
+
+
+![55](https://user-images.githubusercontent.com/111972023/216760551-394be5fc-aa95-46e8-8fcf-d84a765f7b58.png)
 
