@@ -36,3 +36,49 @@ nvm install 10
 
 
 ![5](https://user-images.githubusercontent.com/111972023/216758826-9dd8f51f-c02e-40fb-b92d-a27354c497f8.png)
+
+
+2.git clone https://github.com/dumbwaysdev/wayshub-frontend.git
+
+
+![6](https://user-images.githubusercontent.com/111972023/216758912-1a97722d-afab-40d6-b9cb-7f047b0a5f3e.png)
+
+3.Masuk ke direktori lalu jalankan npm install
+cd wayshub-frontend/
+npm install
+
+
+![7](https://user-images.githubusercontent.com/111972023/216758975-82a0c067-163a-445f-a654-4fb711d5c513.png)
+
+
+4.Jalankan Perintah Berikut :
+pm2 init simple
+
+
+
+![8](https://user-images.githubusercontent.com/111972023/216758997-1d3cc6ec-4a47-4e01-b91a-992341b10cb8.png)
+
+
+5.Edit file ecosystem lalu rubah bagian script menjadi npm start
+
+
+![9](https://user-images.githubusercontent.com/111972023/216759024-398cabea-33dc-4bf4-aad5-8ac3ed4d8bc3.png)
+
+
+5.Jalankan script dengan pm2
+pm2 start ecosystem.config.js
+
+
+![10](https://user-images.githubusercontent.com/111972023/216759059-61538c48-c675-495c-b254-aae791c52b45.png)
+
+
+![11](https://user-images.githubusercontent.com/111972023/216759067-a8643fab-889e-4738-bded-54e8ff1bac69.png)
+
+
+6.Akses Di Web Browser Menggunakan ip:3000(portnya)
+
+
+
+![12](https://user-images.githubusercontent.com/111972023/216759089-d958069c-5236-4a3d-9db5-0bb1aec0f1e2.png)
+
+
