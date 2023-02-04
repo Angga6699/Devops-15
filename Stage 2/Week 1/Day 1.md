@@ -82,3 +82,37 @@ pm2 start ecosystem.config.js
 ![12](https://user-images.githubusercontent.com/111972023/216759089-d958069c-5236-4a3d-9db5-0bb1aec0f1e2.png)
 
 
+Setup DNS Cloudflare
+
+
+sudo apt-get update
+
+
+![14](https://user-images.githubusercontent.com/111972023/216759163-d63e1366-e0f5-4bbc-a98d-ab0498bd9dee.png)
+
+
+
+Buat file konfigurasi baru di folder /etc/nginx/appserver
+sudo nano /etc/nginx/appserver/appserver.conf
+Lalu isikan berikut
+
+
+![15](https://user-images.githubusercontent.com/111972023/216759238-ed9854fb-fce1-4e06-b562-22e239750fd6.png)
+
+
+![16](https://user-images.githubusercontent.com/111972023/216759252-2f71f5c0-afa8-40d6-a6f9-74bc75a633ed.png)
+
+
+![17](https://user-images.githubusercontent.com/111972023/216759260-38a00eca-ee09-42e6-8f98-e6421c660c77.png)
+
+
+sudo nginx -t
+
+
+![18](https://user-images.githubusercontent.com/111972023/216759287-8be14f2f-1afe-4908-a003-80666d00b59c.png)
+
+sudo systemctl reload nginx
+
+
+![19](https://user-images.githubusercontent.com/111972023/216759333-9972d161-689c-4125-8c9c-64952ae7c93b.png)
+
