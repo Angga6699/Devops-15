@@ -14,3 +14,4 @@
 
 Sudo apt-get update
 
+![](https://github.com/Angga6699/Devops-15/blob/main/Stage%202/Week%201/Poto%20Day%201%20Dan%20Day%202/1.png)
