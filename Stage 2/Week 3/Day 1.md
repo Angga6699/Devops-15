@@ -76,14 +76,21 @@
 ![24](https://user-images.githubusercontent.com/111972023/219936842-8a1a9ac4-8ded-4fea-99b5-f2ab4fe07d3b.png)
 
 
+# Terraform 4 Server 2 Databases
+
+
+![25](https://user-images.githubusercontent.com/111972023/219936863-de8168b4-5947-452d-b076-f4fc2b4da09d.png)
+
+
+## Dan jalankan terraform cloud kembali
 
 
 
+![26](https://user-images.githubusercontent.com/111972023/219936893-aa64e69c-d19a-456f-a077-25d3970258b1.png)
 
 
 
-
-
+![27](https://user-images.githubusercontent.com/111972023/219936896-6f579d50-8131-48c1-95fd-3444d8e18b77.png)
 
 
 
