@@ -31,3 +31,64 @@
 
 
 ![Screenshot from 2023-02-19 15-28-00](https://user-images.githubusercontent.com/111972023/219937404-65fd7624-02c0-4da7-b860-188e68c48cb2.png)
+
+# instalasi nginx
+
+![Screenshot from 2023-02-19 15-32-52](https://user-images.githubusercontent.com/111972023/219937491-a5c38149-c326-4ecc-b7fb-78633350c2a3.png)
+
+## Reverse Proxy Dari local ke server Gateway Menggunakan Ansible
+
+![28](https://user-images.githubusercontent.com/111972023/219937680-8a98d1ce-517d-43c1-a621-189110b80da2.png)
+
+
+
+![29](https://user-images.githubusercontent.com/111972023/219937689-f1a1370e-700d-47fd-be72-3514847b1692.png)
+
+
+![30](https://user-images.githubusercontent.com/111972023/219937695-81cb35ec-32e5-4465-b199-e5bf580d6b32.png)
+
+
+
+![Screenshot from 2023-02-19 15-36-57](https://user-images.githubusercontent.com/111972023/219937717-ec74704c-e329-4c2f-9efd-14e1516c854a.png)
+
+
+![31](https://user-images.githubusercontent.com/111972023/219937733-0bfa0502-ecda-47d6-aa6f-f6037e27d347.png)
+
+![32](https://user-images.githubusercontent.com/111972023/219937734-9ade8fe2-ae54-4ce1-8e2f-adea5bc4ab55.png)
+
+
+# copy reverse proxy ke server gatewayserver
+
+![Screenshot from 2023-02-19 15-36-06](https://user-images.githubusercontent.com/111972023/219937748-4d59faea-556e-4aeb-ac33-3b5a5be52f1f.png)
+
+
+
+# dumbplay
+
+
+![53](https://user-images.githubusercontent.com/111972023/219937857-8df83efa-9ffa-4f1a-a603-8d416b7f53d8.png)
+
+# node exporter
+
+![49](https://user-images.githubusercontent.com/111972023/219937879-d95dae36-234a-4a67-83e2-791591e05027.png)
+
+![50](https://user-images.githubusercontent.com/111972023/219937884-63d0ac0f-bf5e-4d05-9b67-7bdc1e7edd89.png)
+
+![51](https://user-images.githubusercontent.com/111972023/219937892-94784ea8-44bd-43b8-9167-71aafc6a584c.png)
+
+# prometheus
+
+![52](https://user-images.githubusercontent.com/111972023/219937912-ee137eda-a0a0-4c1a-85d9-3a3736886b53.png)
+
+# grafana
+
+![48](https://user-images.githubusercontent.com/111972023/219937945-83d5bca7-ec04-42b0-9dd7-34451d0052e8.png)
+
+![47](https://user-images.githubusercontent.com/111972023/219937949-a109eadd-513a-42e8-993a-254c02c99c00.png)
+
+
+
+
+
+
+
